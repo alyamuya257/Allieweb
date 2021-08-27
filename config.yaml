@@ -23,20 +23,17 @@ params:
 menu:
   icon:
     - name: fas fa-envelope
-      url: mailto:me@example.com
+      url: mailto:alyamuya257@gmail.com
       weight: 1
     - name: fab fa-github
-      url: https://github.com/username/
+      url: https://github.com/alyamuya257/
       weight: 2
     - name: fab fa-twitter
-      url: https://twitter.com/username/
+      url: https://twitter.com/Aalyamuya/
       weight: 3
     - name: fab fa-linkedin
-      url: https://www.linkedin.com/in/username/
+      url: https://www.linkedin.com/in/alphoncinalyamuya/
       weight: 4
-    - name: fab fa-stack-overflow
-      url: https://www.stackoverflow.com/username/
-      weight: 5
   main:
     - name: Home
       url: /

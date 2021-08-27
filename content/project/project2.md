@@ -1,11 +1,10 @@
 ---
-description: Consectetur adipiscing elit
+description: Implications of technology in humanitarian fields 
 draft: false
 repo: '#'
 tags:
-- html
-- css
-- js
-title: Project 2
+- humanitariantech
+- humanrights
+title: Humanitarian Technologies and Human Rights
 weight: 2
 ---

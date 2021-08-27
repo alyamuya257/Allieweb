@@ -1,10 +1,11 @@
 ---
-description: Pellentesque eu lacinia id
+description: Journey to master the art of data science 
 draft: false
 repo: '#'
 tags:
-- highlight-js
-- syntax-highlighting
-title: Project 4
+- datascience
+- dataanalysis
+- programming
+title: Data Analysis
 weight: 4
 ---

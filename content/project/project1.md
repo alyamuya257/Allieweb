@@ -1,11 +1,10 @@
 ---
-description: Lorem ipsum dolor sit amet
+description: Migration-related research work
 draft: false
 repo: '#'
 tags:
-- go
-- golang
-- hugo
-title: Project 1
+- globalmigration
+- research
+title: Migration Projects
 weight: 1
 ---
