@@ -13,7 +13,7 @@ params:
   relativeURLs: true
   githubUsername: '#'
   enableEmoji: true
-  profilePic: "../../../home.png/"
+  profilePic: "coding.jpeg/"
   post: "/:year/:month/:day/:slug/"
   highlight: yes
   highlightLanguages:
