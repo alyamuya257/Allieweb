@@ -10,7 +10,11 @@ params:
   backgroundColor: white
   description: Welcome, and thank you for being here!
   font: Times
+  relativeURLs: true
   githubUsername: '#'
+  enableEmoji: true
+  profilePic: "../../../home.png/"
+  post: "/:year/:month/:day/:slug/"
   highlight: yes
   highlightLanguages:
     - go
