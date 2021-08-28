@@ -1,15 +1,15 @@
 baseURL: https://612969a9edce7724ff3cb337--alphoncina-allielyamuya.netlify.app/
 languageCode: en-us
-title: Minimal
+title: Alphoncina (Allie) Lyamuya
 theme: minimal
 disqusShortname: username
 googleAnalytics: ''
 params:
-  accent: red
-  author: Calin Tataru
+  accent: blueviolet 
+  author: Allie Lyamuya 
   backgroundColor: white
-  description: Personal blog theme powered by Hugo
-  font: Raleway
+  description: Welcome, and thank you for being here!
+  font: Times
   githubUsername: '#'
   highlight: yes
   highlightLanguages:
